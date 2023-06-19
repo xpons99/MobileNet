@@ -1,0 +1,29 @@
+{
+    "classes": [
+        "eight",
+        "happy",
+        "house",
+        "marvin",
+        "unknown"
+    ],
+    "mode": "classification",
+    "inferenceMode": "classification",
+    "printHWInfo": false,
+    "inputShapeString": "(3960,)",
+    "yType": "npy",
+    "trainTestSplit": 0.2,
+    "stratifiedTrainTest": true,
+    "convertInt8": true,
+    "profileInt8": true,
+    "skipEmbeddingsAndMemory": false,
+    "objectDetectionAugmentation": false,
+    "syntiantTarget": false,
+    "maxTrainingTimeSeconds": 1200,
+    "isEnterpriseProject": false,
+    "flattenDataset": false,
+    "akidaModel": false,
+    "akidaEdgeModel": false,
+    "skipMemoryProfiling": false,
+    "tensorboardLogging": false,
+    "customValidationSplit": false
+}

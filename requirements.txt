@@ -1,0 +1,12 @@
+ tflite
+ onnx
+ nvidia-pyindex
+ onnx-graphsurgeon
+ tensorflow-addons
+ -e git+https://github.com/onnx/onnx-tensorflow.git#egg=onnx-tf
+ akida
+ cnn2snn
+ tensorflow==2.11
+ protobuf==3.20.0
+ pynvml
+ keras==2.10
